@@ -1,0 +1,23 @@
+{
+  "name": "sf-practicum-arrayutils",
+  "version": "1.0.0",
+  "description": "Модуль B9. Управление артефактами - Практикум - NPM",
+  "main": "arrayUtils.js",
+  "scripts": {
+    "test": "\"test\": \"node test.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErmolaevTV/sf-practicum-arrayutils.git"
+  },
+  "keywords": [
+    "SkillFactory",
+    "GPT-is-the-best-for-slackers"
+  ],
+  "author": "Timofei Ermolaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErmolaevTV/sf-practicum-arrayutils/issues"
+  },
+  "homepage": "https://github.com/ErmolaevTV/sf-practicum-arrayutils#readme"
+}
